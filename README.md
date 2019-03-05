@@ -4,7 +4,7 @@ This program creates a server that runs monte carlo simulations for a list of po
 
 ## prerequisites:
 In order to build this project, it is suggested that you have [Apache Maven](https://maven.apache.org/) installed.
-You will also need [jdk version 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or later installed 
+You will also need [jdk version 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or later installed.
 
 ## compilation/running:
 In order to compile and run the program, perform the following steps:
@@ -18,7 +18,7 @@ To change these configurations, alter the properties in the appliation.propertie
 
 ## making requests to the server
 Once the server is up, make POST requests to localhost:8080/analysis/montecarlo
-In order to make a valid POST request, you may need a utility such as [Postman](https://www.getpostman.com/)
+In order to make a valid POST request, you may need a utility such as [Postman](https://www.getpostman.com/).
 requests must have header 'Content-type' set to 'application/json' and request body in the form:
 
 <pre>
@@ -41,7 +41,7 @@ requests must have header 'Content-type' set to 'application/json' and request b
 }
 </pre>
 
-the server will return the simulation output as a response.
+The server will return the simulation output as a response.
 
 
 
