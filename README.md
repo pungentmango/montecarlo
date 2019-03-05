@@ -4,7 +4,7 @@ This program creates a server that runs monte carlo simulations for a list of po
 
 ## prerequisites:
 In order to build this project, it is suggested that you have [Apache Maven](https://maven.apache.org/) installed.
-You will also need [jdk version 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or later installed.
+You will also need [JRE version 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) or later installed.
 
 ## compilation/running:
 In order to compile and run the program, perform the following steps:
