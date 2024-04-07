@@ -1,5 +1,5 @@
 # montecarlo
-This program creates a server that runs monte carlo simulations for a list of portfolios using the Spring Boot framework. The container is now containerized
+This program creates a server that runs monte carlo simulations for a list of portfolios using the Spring Boot framework in a Docker container
 
 ### Building and running the application using Docker
 When you're ready, start the application by running:
