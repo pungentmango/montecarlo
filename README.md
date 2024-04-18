@@ -8,7 +8,7 @@ When you're ready, start the application by running:
 Your application will be available at http://localhost:8080.
 
 ## simulation configuration
-The simulation is configured to run 10,000 simulation for a 20 year period, assuming an annual inflation of 3.5%.
+The sysgtem is configured to run 10,000 simulations for a 20 year period, assuming an annual inflation of 3.5%.
 To change these configurations, alter the properties in the appliation.properties file.
 
 ## making requests to the server
